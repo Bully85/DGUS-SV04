@@ -1,8 +1,12 @@
-# DGUS-Disply-Klipper
+# At the moment not all work !!!!!!!!!!!!!!  only for test
+
+
+
+# DGUS-Disply-Klipper modified from desuuuu
 
 DWIN T5UID1 touchscreen firmware for 3D printers running Klipper.
 
-Requires using a modified version of Klipper to work properly, which can be found in [this repository](https://github.com/Bully85/klipper/tree/dgus-reloaded).
+Requires using a modified version of Klipper to work properly, which can be found in [this repository](https://github.com/Bully85/klipper).
 
 ## Disclaimer
 **This software is provided without any warranty. You are solely responsible for your use of it.**
@@ -26,7 +30,7 @@ This firmware is only compatible with Sovol SV04
 
 
 ## Prerequisites
-You have to use this [modified version of Klipper](https://github.com/Bully85/klipper/tree/dgus-reloaded). Make sure to enable the serial connection to the screen while configuring the MCU firmware.
+You have to use this [modified version of Klipper](https://github.com/Bully85/klipper). Make sure to enable the serial connection to the screen while configuring the MCU firmware.
 
 The only modification required to your Klipper configuration file is to add this section:
 ```

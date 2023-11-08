@@ -43,8 +43,8 @@ For a list of available options, see the [sample-t5uid1.cfg](https://github.com/
 Example Klipper configurations are available in [this repository](https://github.com/Desuuuu/DGUS-reloaded-Klipper-config).
 
 ## Wiki
-* [Flashing the firmware](https://github.com/Desuuuu/DGUS-reloaded-Klipper/wiki/Flashing-the-firmware)
-* [Print status](https://github.com/Desuuuu/DGUS-reloaded-Klipper/wiki/Print-status)
+* [Flashing the firmware](https://github.com/Bully85/DGUS-SV04/wiki/Flashing-the-firmware)
+* [Print status](https://github.com/Bully85/DGUS-SV04/wiki/Print-status)
 * [Print progress display](https://github.com/Desuuuu/DGUS-reloaded-Klipper/wiki/Print-progress-display)
 
 ## Modification / Compilation
